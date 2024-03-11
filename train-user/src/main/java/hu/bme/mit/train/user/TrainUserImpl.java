@@ -18,7 +18,7 @@ public class TrainUserImpl implements TrainUser {
 	}
 	@Override
 	public boolean emergencyBreak() {
-		return false;
+			return false;
 	}
 
 	@Override
