@@ -1,3 +1,7 @@
+## Markdown szerkesztése teszt
+Emphasis, aka italics, with *asterisks* or _underscores_.
+Strong emphasis, aka bold, with **asterisks** or __underscores__.
+
 # Train Speed Controller
 
 This is a sample application for the verification laboratory.
