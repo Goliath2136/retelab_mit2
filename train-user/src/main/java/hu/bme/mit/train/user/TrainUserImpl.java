@@ -16,6 +16,10 @@ public class TrainUserImpl implements TrainUser {
 	public boolean getAlarmFlag() {
 		return false;
 	}
+	@Override
+	public boolean emergencyBreak() {
+		return false;
+	}
 
 	@Override
 	public int getJoystickPosition() {
